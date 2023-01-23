@@ -1,4 +1,5 @@
-#Függvények/Eljárások készítése 
+# Függvények/Eljárások készítése 
+## 2023.01.13.
 
 Python nyelv függvények óra: 
 - def kulcszó, 
